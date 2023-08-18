@@ -1,2 +1,2 @@
-jaldi yahan se hato
+jaldi yahan se hato ,
 hatt tor mai k chodo
