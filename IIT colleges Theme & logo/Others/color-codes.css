@@ -1,0 +1,243 @@
+/* CSS HEX */
+:root {
+/* bhilai */
+
+
+    --minsk: #412e84;
+    --blue-haze: #d6d0e4;
+    --purple-mountain: #937cba;
+ --blue-bell: #9e8ec4;
+    --scampi: #6a599a;
+    --logan: #9c9cc4;
+    --east-side: #ac94c4;
+    --deluge: #746ca8;
+    --butterfly: #5c549c;
+
+
+/* varanasi, bhu */
+
+
+--cannon-pink: #8e466f;
+--bouquet: #a37594;
+--bon-jour: #f1ecf0;
+--coral-tree: #d1282b;
+--lily: #c9aec0;
+--eunry: #caa2a4;
+--strikemaster: #91518c;
+--shady-lady: #ac9cac;
+--pale-slate: #ccc4cc;
+
+
+/* bhubaneswar  */
+--cerulean: #0895db;
+--iron: #d5d7d9;
+--mirage: #1c2434;
+--pale-sky: #707781;
+--manatee: #94949c;
+--shuttle-gray: #545c69;
+--fiord: #445064;
+--river-bed: #404957;
+--manatee: #8c8c9c;
+
+
+/* bombay */
+
+--periwinkle-gray: #c7d9ea;
+--cobalt: #044ca4;
+--steel-blue: #598ec2;
+--polo-blue: #79a4cc;
+--boston-blue: #3c7cbc;
+--polo-blue: #84a4d4;
+--jelly-bean: #2b6fb2;
+--fun-blue: #1865ac;
+--boston-blue: #397cb4;
+
+/* delhi */
+
+--monza: #d40404;
+
+/* dhanbad */
+
+--victoria: #3f428a;
+--kimberly: #7374a4;
+--porcelain: #f3f4f5;
+--amethyst-smoke: #9395bb;
+--blue-haze: #c3c5d8;
+--cadet-blue: #afafc9;
+--manatee: #8d8e9f;
+--lynch: #64749c;
+--celeste: #d4d4cc;
+
+/* dharwad */
+
+--kingfisher-daisy: #4c0484;
+--supernova: #fccc04;
+--cod-gray: #141414;
+--rangoon-green: #1c1c14;
+--purple: #780c88;
+
+
+/* gandhinagar  */
+
+--cerulean: #04a4e4;
+--mine-shaft: #242424;
+--alizarin-crimson: #e31b1c;
+--pelorous: #3ca8b0;
+
+
+/* goa */
+
+--hot-cinnamon: #d5661b;
+--buttercup: #f4be13;
+--lucky-point: #1c1c63;
+--van-cleef: #4c1c0b;
+--port-gore: #1c1c3c;
+--steel-gray: #1c1c29;
+--port-gore: #1c1c4c;
+--lucky-point: #241c64;
+--apple: #508834;
+
+/* huwahati */
+
+--fun-blue: #1c4494;
+--alizarin-crimson: #ea1e24;
+--shark: #1d1d1e;
+--golden-grass: #d3b424;
+--bizarre: #ece2d4;
+--roti: #b4a43c;
+--chenin: #e4d175;
+--wattle: #dcc44b;
+--anzac: #dcb839;
+
+/* hyderabad */
+
+--scarlet: #fc1b04;
+--sun: #fca515;
+--navy-blue: #040484;
+--coral-red: #ff3444;
+
+
+/* indere */
+
+--tory-blue: #135495;
+--botticelli: #cfdcea;
+--ship-cove: #6a93be;
+--lochmara: #0483cf;
+--polo-blue: #8daccc;
+--lochmara: #0a73bd;
+--san-marino: #3f74ab;
+--polo-blue: #84accc;
+--steel-blue: #4c84b4;
+
+/* jammu */
+
+--lochmara: #0484cc;
+--cerulean: #04aceb;
+--congress-blue: #04448c;
+--periwinkle-gray: #becde0;
+--cerulean: #04b4eb;
+--hippie-blue: #6086b4;
+--st-tropaz: #285f9c;
+--matisse: #20549c;
+--curious-blue: #1c94d4;
+
+/* jodhpur */
+
+--dark-burgundy: #840404;
+--red-devil: #880404;
+
+
+/*kanpur  */
+
+--eden: #0c444c;
+--elephant: #14444c;
+--deep-sea: #0c4454;
+
+
+/* kharagpur */
+
+--deep-koamaru: #241474;
+--persian-indigo: #2c1474;
+--deep-blue: #240c74;
+
+
+/* madras */
+
+--falu-red: #7c1d15;
+--old-gold: #d3ab4c;
+--wafer: #e5d6d1;
+--cocoa-brown: #1d1514;
+--thunderbird: #db2314;
+--coral-tree: #a57672;
+--tan: #ceaa8b;
+--apache: #dcb466;
+--star-dust: #949492;
+
+/* mandi */
+
+--fuscous-gray: #4e4d4c;
+--zest: #e17c28;
+--curious-blue: #1e9ad7;
+--fruit-salad: #4ca371;
+--natural-gray: #84817e;
+--salem: #099342;
+--cloudy: #b4aea9;
+--armadillo: #34342c;
+--smalt-blue: #53798d;
+
+
+/* pallakad */
+
+--yellow-sea: #fcac04;
+--mid-gray: #64646c;
+--pizazz: #ff8c04;
+--raw-sienna: #d48c3c;
+
+
+/* patna */
+
+--geyser: #d1dcde;
+--matisse: #1a6191;
+--carrot-orange: #f3881e;
+--ship-cove: #729bb2;
+--jewel: #148444;
+--acapulco: #7db997;
+--eucalyptus: #298d56;
+--polo-blue: #84b1cd;
+--boston-blue: #3d86b2;
+
+/* roorkee */
+
+--mercury: #e2e1e0;
+--fiord: #3d4267;
+--ship-cove: #6d91bd;
+--tom-thumb: #415634;
+--manatee: #8e929f;
+--cadet-blue: #adb8c4;
+--horizon: #597fa5;
+--waikawa-gray: #617198;
+--muddy-waters: #bc945c;
+
+/* ropar */
+
+--minsk: #3c3484;
+--black: #050505;
+--mischka: #dad9e5;
+--santas-gray: #9c9cb0;
+--blue-bell: #9290bc;
+--waterloo-: #827ea0;
+--ship-gray: #43424c;
+--scampi: #615c9e;
+--mine-shaft: #3c3c3c;
+
+
+/* tirupati */
+
+--dark-burgundy: #840404;
+--black: #040404;
+--red-devil: #880404;
+--rebel: #280404;
+--night-rider: #080404;
+
+
+}
